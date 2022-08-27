@@ -6,6 +6,7 @@
         "guzzlehttp/guzzle": "^7.4"
     },
     "require-dev": {
+        "php": ">=7.4",
         "phpunit/phpunit": "^9.5"
     },
     "autoload": {
